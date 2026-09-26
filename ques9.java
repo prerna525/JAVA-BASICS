@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class ques9 {
     public static void main(String []args) {
-        Scanner sc= new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
         System.out.println("Enter marks of student");
         int marks=sc.nextInt();
         if(marks>=90&&marks<=100){
